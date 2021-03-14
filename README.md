@@ -1,4 +1,6 @@
-# Jupyter Notebooks For Reproducible Research
+# r-binder-template
+
+## Jupyter Notebooks For Reproducible Research
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/rse-standrewscs/r-binder-template/master?filepath=index.ipynb)
 
