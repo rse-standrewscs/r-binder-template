@@ -9,7 +9,8 @@ R Jupyter notebook. Click on the binder badge above to launch it
 on [Binder](https://mybinder.org), where you will be able to rerun
 all calculations yourself.
 
-The short example used in the R Jupyter notebook uses the gapminder
-dataset and is based on the Software Carpentry lesson "Programming in R"
+The short example used in the R Jupyter notebook uses the
+[Gapminder dataset](https://www.gapminder.org/data/)
+and is based on the Software Carpentry lesson "Programming in R"
 taught by Leighton Pritchard in St Andrews on 30-31 May 2019:
 <https://starescomp.github.io/2019-05-30-standrews/>.
